@@ -1,0 +1,20 @@
+/* this is a comment*/
+/*format:
+selected{
+    property: value:
+}*/
+body{
+    color: blue;
+}
+
+li{
+    color: rgb(255,200,100);
+}
+
+p{
+    color: #0859a8;
+}
+
+h4{
+    color: rgba(200,100,50,0.5);
+}
